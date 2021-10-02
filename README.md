@@ -22,7 +22,7 @@ O objetivo desse projeto é localizar um ponto de uma imagem usando python, e co
 
 Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
 
-<img src="/imagem.png" width="550">
+<img src="/image.png" width="550">
 
 Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
 
